@@ -13,7 +13,7 @@ The report provides:
 - A comparison of **core features**, **integration options**, **monitoring & observability tools**, and **pricing models**.
 - Strengths and weaknesses of each service from a **serverless architecture perspective**.
 
-## Serverless Service Alternatives Report
+## Azure vs. AWS vs. GCP – Serverless Service Comparisons
 
 ### 1. Azure Functions (Triggers & Bindings)
 | Cloud Provider | Service Name | Overview |
